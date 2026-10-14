@@ -1,0 +1,6 @@
+// Copyright (c) 2026 Jacek Fedorynski
+// SPDX-License-Identifier: MIT
+
+// Data built into the executables.
+SPEECH_EMBEDDING RCDATA "../models/speech_embedding.bin"
+SOUND_BACKGROUND RCDATA "../models/sound_background.bin"
