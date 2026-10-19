@@ -6,6 +6,10 @@ The actions can be one-shot ("tap X when I say _fire_") or continuous ("keep hol
 
 It acts as the Transmitter component of a [HID Forwarder](https://github.com/jfedor2/hid-forwarder) setup. The gamepad inputs generated are sent to the configured Receiver. This way you can control a game on the same PC or on a separate computer or console.
 
+For downloads see the [latest release](https://github.com/jfedor2/voice-hid-transmitter/releases/latest).
+
+See also: [Face HID Transmitter](https://github.com/jfedor2/face-hid-transmitter), [Overlay HID Transmitter](https://github.com/jfedor2/overlay-hid-transmitter).
+
 ![screenshot](images/screenshot.png)
 
 ## Usage
